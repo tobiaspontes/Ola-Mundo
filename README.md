@@ -1,4 +1,3 @@
-
 # Linguagem Markdonw
 ***
 ## Algumas dicas
@@ -43,3 +42,4 @@ Id | Nome | Valor
  Iniciando o uso do Git e do GitHub...
  
  Essa linha foi acrescentada diretamente no site do GitHub.
+
