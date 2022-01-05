@@ -37,6 +37,15 @@ Id | Nome | Valor
 2 | Maria Terezinha | 1000
 3 | Tavares | 560
 
+Trechos de códigos ou comandos
+```
+num = int(input('Digite um número inteiro: '))
+if num % 2 == 0:
+    print(f'O número {num} é PAR')
+else:
+    print(f'O número {num} é ÍMPAR')
+```
+
  Primeiro repositório dos meus projetos.
 
  Iniciando o uso do Git e do GitHub...
