@@ -46,6 +46,8 @@ else:
     print(f'O número {num} é ÍMPAR')
 ```
 
+ Emoji do título obtido no site emojipedia.org
+ 
  Primeiro repositório dos meus projetos.
 
  Iniciando o uso do Git e do GitHub...
