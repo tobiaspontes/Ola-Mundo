@@ -3,6 +3,7 @@
 ## Algumas dicas
 ***
 Negrito: **dois asteriscos**
+
 Itálico: *um asterico*
 
 Lista numerada:
